@@ -14,4 +14,11 @@ EL MASTER GANA
 
 
 segunda modificacion rama1
+<<<<<<< HEAD
+>>>>>>> rama1
+=======
+
+
+
+mamonsalve rama1 
 >>>>>>> rama1
