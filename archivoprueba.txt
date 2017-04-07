@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 modificando fichero desde la rama pricipal (master)
 hacer commit para comprobacion
+=======
+modificacion desde la rama 1
+realizar commit desde working copy
+>>>>>>> rama1
