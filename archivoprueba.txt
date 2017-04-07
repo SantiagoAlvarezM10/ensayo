@@ -5,3 +5,7 @@ hacer commit para comprobacion
 modificacion desde la rama 1
 realizar commit desde working copy
 >>>>>>> rama1
+
+
+
+segunda modificacion rama1
