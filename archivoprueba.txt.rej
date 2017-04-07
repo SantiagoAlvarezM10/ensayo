@@ -1,0 +1,13 @@
+diff a/archivoprueba.txt b/archivoprueba.txt	(rejected hunks)
+@@ -5,4 +5,8 @@
+ modificacion desde la rama 1
+ realizar commit desde working copy
+ >>>>>>> rama1
+-Aqui modificando un poco con la ramita2
+\ No newline at end of file
++Aqui modificando un poco con la ramita2
++
++
++
++ramita 2 mamonsalve
+\ No newline at end of file

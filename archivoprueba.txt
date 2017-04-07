@@ -8,6 +8,7 @@ realizar commit desde working copy
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 EL MASTER GANA 
 =======
 
@@ -22,3 +23,10 @@ segunda modificacion rama1
 
 mamonsalve rama1 
 >>>>>>> rama1
+=======
+Aqui modificando un poco con la ramita2
+
+
+
+ramita 2 mamonsalve
+>>>>>>> rama2
